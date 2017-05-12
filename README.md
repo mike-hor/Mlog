@@ -1,1 +1,1 @@
-# [Mlog](https://mike-hor.github.io/Mlog/)
+# [Mlog](https://mike-hor.github.io/Mlog/#/)
